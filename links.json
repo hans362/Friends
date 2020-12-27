@@ -4,7 +4,115 @@
         "url": "https://github.com/hans362/Friends/",
         "backgroundColor": "#ca2c2a",
         "textColor": "#fff",
-        "target": "_self",
+        "target": "_blank",
         "desc": "申请友链 / 修改友链"
+    },
+    {
+        "name": "Archeb",
+        "avatar": "https://gravatar.loli.net/avatar/93f5d0e297fe1c30eb4cf540e214523a?s=100&r=X&d=mm",
+        "url": "https://qwq.moe/",
+        "backgroundColor": "#FF8EB2",
+        "textColor": "#8D5874",
+        "target": "_blank",
+        "desc": "蚊子大佬"
+    },
+    {
+        "name": "DreamCity",
+        "avatar": "https://www.littleqiu.net/wp-content/uploads/2018/01/Avatar.png",
+        "url": "https://www.littleqiu.net/",
+        "backgroundColor": "#609DA0",
+        "textColor": "#BFE1C8",
+        "target": "_blank",
+        "desc": "迷惘少年的梦想世界"
+    },
+    {
+        "name": "PRIN BLOG",
+        "avatar": "https://avatars0.githubusercontent.com/u/11206497?s=460&v=4",
+        "url": "https://printempw.github.io/",
+        "backgroundColor": "#91B493",
+        "textColor": "#344B39",
+        "target": "_blank",
+        "desc": "致我所深爱着的世界"
+    },
+    {
+        "name": "些瓶小站",
+        "avatar": "https://avatars1.githubusercontent.com/u/12976469?s=400&v=4",
+        "url": "https://bottle.moe/",
+        "backgroundColor": "#66CCFF",
+        "textColor": "white",
+        "target": "_blank",
+        "desc": "一条活蹦乱跳的咸鱼"
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
+    },
+    {
+        "name": "",
+        "avatar": "",
+        "url": "",
+        "backgroundColor": "",
+        "textColor": "",
+        "target": "_blank",
+        "desc": ""
     }
 ]
