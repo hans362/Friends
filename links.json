@@ -2,8 +2,8 @@
     {
         "name": "关于友情链接",
         "url": "https://github.com/hans362/Friends/",
-        "backgroundColor": "#ca2c2a",
-        "textColor": "#fff",
+        "backgroundColor": "#CA2C2A",
+        "textColor": "white",
         "target": "_blank",
         "desc": "申请友链 / 修改友链"
     },
@@ -44,75 +44,75 @@
         "desc": "一条活蹦乱跳的咸鱼"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "崇宫苟道的破站",
+        "avatar": "https://lzh441.cn/img/head.jpg",
+        "url": "https://lzh441.cn/",
+        "backgroundColor": "#049FF1",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "一只咸鱼的破站"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "Subilan's Blog",
+        "avatar": "https://i.loli.net/2018/08/10/5b6d052e3c771.jpg",
+        "url": "https://subilan.win/",
+        "backgroundColor": "#48C35C",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "Material No. 00001"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "徐天乐 – 个人博客",
+        "avatar": "https://avatars1.githubusercontent.com/u/16159830?s=460&v=4",
+        "url": "https://blog.xtlsoft.top/",
+        "backgroundColor": "#00A6AC",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "Tech, World, Life"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "蝉時雨",
+        "avatar": "https://avatars2.githubusercontent.com/u/22583039?v=4",
+        "url": "https://chanshiyu.com/",
+        "backgroundColor": "#FB618D",
+        "textColor": "#87253C",
         "target": "_blank",
-        "desc": ""
+        "desc": "蝉鸣如雨，花宵道中"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "TonyHe",
+        "avatar": "https://static.ouorz.com/t.jpg",
+        "url": "https://www.ouorz.com/",
+        "backgroundColor": "#63B8FF",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "Just A Poor Lifesinger"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "Geniucker‘s Blog",
+        "avatar": "https://cdn.jsdelivr.net/gh/geniucker/source/avatar.jpg",
+        "url": "https://geniucker.js.org/",
+        "backgroundColor": "#A8D8B9",
+        "textColor": "#4E7C58",
         "target": "_blank",
-        "desc": ""
+        "desc": "崇尚技术"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "Kaciras' Blog",
+        "avatar": "https://blog.kaciras.com/static/img/avatar.png",
+        "url": "https://blog.kaciras.com/",
+        "backgroundColor": "#00BCF0",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "程序，生活，梦想"
     },
     {
-        "name": "",
-        "avatar": "",
-        "url": "",
-        "backgroundColor": "",
-        "textColor": "",
+        "name": "Eltrac",
+        "avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpg",
+        "url": "https://guhub.cn/",
+        "backgroundColor": "https://guhub.cn/",
+        "textColor": "white",
         "target": "_blank",
-        "desc": ""
+        "desc": "暗夜行路，终遇奇迹"
     }
 ]
