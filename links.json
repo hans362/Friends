@@ -114,5 +114,14 @@
         "textColor": "white",
         "target": "_blank",
         "desc": "暗夜行路，终遇奇迹"
+    },
+    {
+        "name": "Go123的博客",
+        "avatar": "",
+        "url": "https://go123.live",
+        "backgroundColor": "#4FACFE",
+        "textColor": "white",
+        "target": "_blank",
+        "desc": "告诉你一些好玩软件和网站，纯干货、0水分、快乐多O(∩_∩)O"
     }
 ]
