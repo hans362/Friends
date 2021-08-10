@@ -2,8 +2,6 @@
     {
         "name": "关于友情链接",
         "url": "https://github.com/hans362/Friends/",
-        "backgroundColor": "#CA2C2A",
-        "textColor": "white",
         "target": "_blank",
         "desc": "申请友链 / 修改友链"
     },
@@ -11,8 +9,6 @@
         "name": "Archeb",
         "avatar": "https://gravatar.loli.net/avatar/93f5d0e297fe1c30eb4cf540e214523a?s=100&r=X&d=mm",
         "url": "https://qwq.moe/",
-        "backgroundColor": "#FF8EB2",
-        "textColor": "#8D5874",
         "target": "_blank",
         "desc": "蚊子大佬"
     },
@@ -20,8 +16,6 @@
         "name": "DreamCity",
         "avatar": "https://www.littleqiu.net/wp-content/uploads/2018/01/Avatar.png",
         "url": "https://www.littleqiu.net/",
-        "backgroundColor": "#609DA0",
-        "textColor": "#BFE1C8",
         "target": "_blank",
         "desc": "迷惘少年的梦想世界"
     },
@@ -29,8 +23,6 @@
         "name": "PRIN BLOG",
         "avatar": "https://avatars0.githubusercontent.com/u/11206497?s=460&v=4",
         "url": "https://printempw.github.io/",
-        "backgroundColor": "#91B493",
-        "textColor": "#344B39",
         "target": "_blank",
         "desc": "致我所深爱着的世界"
     },
@@ -38,8 +30,6 @@
         "name": "些瓶小站",
         "avatar": "https://avatars1.githubusercontent.com/u/12976469?s=400&v=4",
         "url": "https://bottle.moe/",
-        "backgroundColor": "#66CCFF",
-        "textColor": "white",
         "target": "_blank",
         "desc": "一条活蹦乱跳的咸鱼"
     },
@@ -47,8 +37,6 @@
         "name": "崇宫苟道的破站",
         "avatar": "https://avatars0.githubusercontent.com/u/37145311?s=460&v=4",
         "url": "https://lzh441.cn/",
-        "backgroundColor": "#049FF1",
-        "textColor": "white",
         "target": "_blank",
         "desc": "一只咸鱼的破站"
     },
@@ -56,8 +44,6 @@
         "name": "Subilan's Blog",
         "avatar": "https://i.loli.net/2018/08/10/5b6d052e3c771.jpg",
         "url": "https://subilan.win/",
-        "backgroundColor": "#48C35C",
-        "textColor": "white",
         "target": "_blank",
         "desc": "Material No. 00001"
     },
@@ -65,8 +51,6 @@
         "name": "徐天乐 – 个人博客",
         "avatar": "https://avatars1.githubusercontent.com/u/16159830?s=460&v=4",
         "url": "https://blog.xtlsoft.top/",
-        "backgroundColor": "#00A6AC",
-        "textColor": "white",
         "target": "_blank",
         "desc": "Tech, World, Life"
     },
@@ -74,8 +58,6 @@
         "name": "蝉時雨",
         "avatar": "https://avatars2.githubusercontent.com/u/22583039?v=4",
         "url": "https://chanshiyu.com/",
-        "backgroundColor": "#FB618D",
-        "textColor": "#87253C",
         "target": "_blank",
         "desc": "蝉鸣如雨，花宵道中"
     },
@@ -83,8 +65,6 @@
         "name": "TonyHe",
         "avatar": "https://static.ouorz.com/t.jpg",
         "url": "https://www.ouorz.com/",
-        "backgroundColor": "#63B8FF",
-        "textColor": "white",
         "target": "_blank",
         "desc": "Just A Poor Lifesinger"
     },
@@ -92,8 +72,6 @@
         "name": "Geniucker‘s Blog",
         "avatar": "https://cdn.jsdelivr.net/gh/geniucker/source/avatar.jpg",
         "url": "https://geniucker.js.org/",
-        "backgroundColor": "#A8D8B9",
-        "textColor": "#4E7C58",
         "target": "_blank",
         "desc": "崇尚技术"
     },
@@ -101,8 +79,6 @@
         "name": "Kaciras' Blog",
         "avatar": "https://blog.kaciras.com/static/img/avatar.png",
         "url": "https://blog.kaciras.com/",
-        "backgroundColor": "#00BCF0",
-        "textColor": "white",
         "target": "_blank",
         "desc": "程序，生活，梦想"
     },
@@ -110,8 +86,6 @@
         "name": "Eltrac",
         "avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpg",
         "url": "https://guhub.cn/",
-        "backgroundColor": "#FF7755",
-        "textColor": "white",
         "target": "_blank",
         "desc": "暗夜行路，终遇奇迹"
     },
@@ -119,8 +93,6 @@
         "name": "Go123的博客",
         "avatar": "https://go123.live/wp-content/uploads/2020/10/favicon-go123.png",
         "url": "https://go123.live",
-        "backgroundColor": "#4FACFE",
-        "textColor": "white",
         "target": "_blank",
         "desc": "告诉你一些好玩软件和网站，纯干货、0水分、快乐多"
     }
