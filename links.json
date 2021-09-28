@@ -95,5 +95,12 @@
         "url": "https://go123.live",
         "target": "_blank",
         "desc": "告诉你一些好玩软件和网站，纯干货、0水分、快乐多"
+    },
+    {
+        "name": "7gugu’s Blog",
+        "avatar": "https://7gugu.com/wp-content/uploads/2021/07/favicon.png",
+        "url": "https://www.7gugu.com/",
+        "target": "_blank",
+        "desc": "一只鸽子的Code Space"
     }
 ]
