@@ -102,5 +102,12 @@
         "url": "https://www.7gugu.com/",
         "target": "_blank",
         "desc": "一只鸽子的Code Space"
+    },
+    {
+        "name": "MrZeFr的小窝",
+        "avatar": "https://unpkg.zhimg.com/mrzefr-blog-file@1.0.5/ICO/Doraemon.ico",
+        "url": "https://www.mrzefr.cn",
+        "target": "_blank",
+        "desc": "Hello World"
     }
 ]
