@@ -34,13 +34,6 @@
         "desc": "一条活蹦乱跳的咸鱼"
     },
     {
-        "name": "崇宫苟道的破站",
-        "avatar": "https://avatars0.githubusercontent.com/u/37145311?s=460&v=4",
-        "url": "https://lzh441.cn/",
-        "target": "_blank",
-        "desc": "一只咸鱼的破站"
-    },
-    {
         "name": "Subilan's Blog",
         "avatar": "https://i.loli.net/2018/08/10/5b6d052e3c771.jpg",
         "url": "https://subilan.win/",
@@ -69,13 +62,6 @@
         "desc": "Just A Poor Lifesinger"
     },
     {
-        "name": "Geniucker‘s Blog",
-        "avatar": "https://cdn.jsdelivr.net/gh/geniucker/source/avatar.jpg",
-        "url": "https://geniucker.js.org/",
-        "target": "_blank",
-        "desc": "崇尚技术"
-    },
-    {
         "name": "Kaciras' Blog",
         "avatar": "https://blog.kaciras.com/static/img/avatar.png",
         "url": "https://blog.kaciras.com/",
@@ -102,12 +88,5 @@
         "url": "https://www.7gugu.com/",
         "target": "_blank",
         "desc": "一只鸽子的Code Space"
-    },
-    {
-        "name": "MrZeFr的小窝",
-        "avatar": "https://unpkg.zhimg.com/mrzefr-blog-file@1.0.5/ICO/Doraemon.ico",
-        "url": "https://www.mrzefr.cn",
-        "target": "_blank",
-        "desc": "Hello World"
     }
 ]
