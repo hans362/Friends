@@ -88,5 +88,12 @@
         "url": "https://www.7gugu.com/",
         "target": "_blank",
         "desc": "一只鸽子的Code Space"
+    },
+    {
+        "name": "Arthals' ink",
+        "avatar": "https://cdn.arthals.ink/Arthals-mcskin.png",
+        "url": "https://www.arthals.ink/",
+        "target": "_blank",
+        "desc": "何惧生死长物，一往前无"
     }
 ]
