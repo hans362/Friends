@@ -95,5 +95,12 @@
         "url": "https://www.arthals.ink/",
         "target": "_blank",
         "desc": "何惧生死长物，一往前无"
+    },
+    {
+        "name": "HydCraft Wiki",
+        "avatar": "https://wiki.hydcraft.cn/favicon/logo.png",
+        "url": "https://wiki.hydcraft.cn/",
+        "target": "_blank",
+        "desc": "HydCraft的官方Wiki喵>_<"
     }
 ]
