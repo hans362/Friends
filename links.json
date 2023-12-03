@@ -95,5 +95,12 @@
         "url": "https://www.arthals.ink/",
         "target": "_blank",
         "desc": "何惧生死长物，一往前无"
+    },
+    {
+        "name": "ff98sha的博客",
+        "avatar": "https://www.ff98sha.me/wp-content/uploads/2018/11/cropped-cropped-pic-1-150x150.jpg",
+        "url": "https://www.ff98sha.me/",
+        "target": "_blank",
+        "desc": "⛏️"
     }
 ]
