@@ -102,5 +102,12 @@
         "url": "https://www.ff98sha.me/",
         "target": "_blank",
         "desc": "⛏️"
+    },
+    {
+        "name": "Teruteru的学习笔记",
+        "avatar": "https://teru.space/img/teruteru.jpg",
+        "url": "https://teru.space/",
+        "target": "_blank",
+        "desc": "学在交大！"
     }
 ]
