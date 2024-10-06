@@ -109,5 +109,12 @@
         "url": "https://teruteru.space/",
         "target": "_blank",
         "desc": "学在交大！"
+    },
+    {
+        "name": "Paomoh",
+        "avatar": "https://paomoh.top/favicon.png",
+        "url": "https://paomoh.top/",
+        "target": "_blank",
+        "desc": "美丽泡沫，一刹花火"
     }
 ]
