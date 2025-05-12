@@ -109,5 +109,12 @@
         "url": "https://teruteru.space/",
         "target": "_blank",
         "desc": "学在交大！"
+    },
+    {
+        "name": "Bokey Space",
+        "avatar": "https://bokey-space.oss-cn-shenzhen.aliyuncs.com/pro/global/my-avatar.png",
+        "url": "https://bokey.space/",
+        "target": "_blank",
+        "desc": "留下属于我们的痕迹"
     }
 ]
